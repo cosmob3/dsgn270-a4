@@ -1,0 +1,565 @@
+/* Frame 1 */
+
+position: relative;
+width: 950px;
+height: 1592.51px;
+
+background: #ececec;
+
+/* Navigation bar */
+
+position: absolute;
+width: 910.88px;
+height: 100px;
+left: 0px;
+top: 0px;
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 900px;
+height: 100px;
+left: 0px;
+top: 0px;
+
+background: #ececec;
+
+/* Aperture */
+
+position: absolute;
+width: 75.44px;
+height: 76px;
+left: 9.84px;
+top: 17px;
+
+background: url(.png);
+
+/* AshLens Photography */
+
+position: absolute;
+width: 263.49px;
+height: 76px;
+left: 108.24px;
+top: 17px;
+
+/* Heading/h3: Regular */
+font-family: "Advent Pro";
+font-style: normal;
+font-weight: 400;
+font-size: 39px;
+line-height: 47px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* About Me */
+
+position: absolute;
+width: 111px;
+height: 35px;
+left: 450px;
+top: 33px;
+
+/* Heading/h4: Regular */
+font-family: "Advent Pro";
+font-style: normal;
+font-weight: 400;
+font-size: 29px;
+line-height: 35px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* Portfolio */
+
+position: absolute;
+width: 103.87px;
+height: 35px;
+left: 609px;
+top: 33px;
+
+/* Heading/h4: Regular */
+font-family: "Advent Pro";
+font-style: normal;
+font-weight: 400;
+font-size: 29px;
+line-height: 35px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* Book Today! */
+
+position: absolute;
+width: 150.88px;
+height: 35px;
+left: 760px;
+top: 38px;
+
+/* Heading/h4: Regular */
+font-family: "Advent Pro";
+font-style: normal;
+font-weight: 400;
+font-size: 29px;
+line-height: 35px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* Hero Section */
+
+position: absolute;
+width: 846px;
+height: 475.5px;
+left: 0px;
+top: 152px;
+
+/* unsplash:CGKYNN3uuVo */
+
+position: absolute;
+width: 274px;
+height: 418px;
+left: 305.68px;
+top: 152px;
+
+background: url(.jpg);
+transform: rotate(4.21deg);
+
+/* unsplash:5aGUyCW_PJw */
+
+position: absolute;
+width: 274px;
+height: 418px;
+left: 0px;
+top: 224.33px;
+
+background: url(.jpg);
+transform: rotate(-15.31deg);
+
+/* Your No. 1 Stop for Portrait Photography */
+
+position: absolute;
+width: 206px;
+height: 270px;
+left: 640px;
+top: 235px;
+
+/* Heading/h3: Regular */
+font-family: "Advent Pro";
+font-style: normal;
+font-weight: 400;
+font-size: 39px;
+line-height: 47px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* Primary-btn */
+
+position: absolute;
+width: 183px;
+height: 46px;
+left: 640px;
+top: 525px;
+
+/* Shape */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #5da2d5;
+box-shadow: 4px 2px 2px rgba(0, 0, 0, 0.65);
+border-radius: 25px;
+
+/* Text */
+
+position: absolute;
+left: 24%;
+right: 27.91%;
+top: 23.83%;
+bottom: 13.13%;
+
+/* button/button-text */
+font-family: "Advent Pro";
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #ececec;
+
+/* short-about-me */
+
+position: absolute;
+width: 877px;
+height: 340px;
+left: 0px;
+top: 679.51px;
+
+/* unsplash:O3ymvT7Wf9U */
+
+position: absolute;
+width: 285px;
+height: 340px;
+left: 592px;
+top: 679.51px;
+
+background: url(.jpg);
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Senectus massa elementum tristique dui, odio lacinia turpis lectus non. Faucibus porttitor varius consequat, cras morbi purus pretium ac neque. Mi tristique egestas amet malesuada ac nisi. Accumsan nisi eu sagittis sit dignissim praesent sit. Vestibulum turpis nulla amet, blandit elementum. Massa elementum integer risus, nibh consectetur at. Morbi aenean nisi sit pretium in sit. Fames nisl sit condimentum ac luctus. Dui malesuada faucibus elit, sed ege. */
+
+position: absolute;
+width: 563px;
+height: 252px;
+left: 0px;
+top: 767.51px;
+
+/* paragraph/xl: Regular */
+font-family: "Advent Pro";
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 26px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* I’m Ashlyn */
+
+position: absolute;
+width: 205px;
+height: 62px;
+left: 179px;
+top: 705.51px;
+
+/* Heading/h2: Regular */
+font-family: "Advent Pro";
+font-style: normal;
+font-weight: 400;
+font-size: 52px;
+line-height: 62px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* Cards */
+
+position: absolute;
+width: 915px;
+height: 380px;
+left: 0px;
+top: 1071.51px;
+
+/* unsplash:6c4Uhhe68yQ */
+
+position: absolute;
+width: 285px;
+height: 237.67px;
+left: 0px;
+top: 1071.51px;
+
+background: url(.jpg);
+
+/* unsplash:5BB_atDT4oA */
+
+position: absolute;
+width: 285px;
+height: 237.67px;
+left: 312px;
+top: 1071.51px;
+
+background: url(.jpg);
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 270px;
+height: 197.39px;
+left: 15px;
+top: 1254.12px;
+
+background: #000000;
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 270px;
+height: 197.39px;
+left: 327px;
+top: 1254.12px;
+
+background: #000000;
+
+/* Family Sessions */
+
+position: absolute;
+width: 177px;
+height: 47px;
+left: 54px;
+top: 1263.52px;
+
+/* Heading/h4: Regular */
+font-family: "Advent Pro";
+font-style: normal;
+font-weight: 400;
+font-size: 29px;
+line-height: 35px;
+display: flex;
+align-items: center;
+
+color: #ececec;
+
+/* Weddings */
+
+position: absolute;
+width: 109px;
+height: 47px;
+left: 407px;
+top: 1263.52px;
+
+/* Heading/h4: Regular */
+font-family: "Advent Pro";
+font-style: normal;
+font-weight: 400;
+font-size: 29px;
+line-height: 35px;
+display: flex;
+align-items: center;
+
+color: #ececec;
+
+/* unsplash:_kd5cxwZOK4 */
+
+position: absolute;
+width: 285px;
+height: 237.67px;
+left: 630px;
+top: 1071.51px;
+
+background: url(.jpg);
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 270px;
+height: 197.39px;
+left: 645px;
+top: 1254.12px;
+
+background: #000000;
+
+/* Other Special Event */
+
+position: absolute;
+width: 215px;
+height: 47px;
+left: 672px;
+top: 1263.52px;
+
+/* Heading/h4: Regular */
+font-family: "Advent Pro";
+font-style: normal;
+font-weight: 400;
+font-size: 29px;
+line-height: 35px;
+display: flex;
+align-items: center;
+
+color: #ececec;
+
+/* Secondary-btn */
+
+position: absolute;
+width: 150px;
+height: 67.14px;
+left: 387px;
+top: 1340.06px;
+
+/* Shape */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* yellow */
+background: #f3d250;
+box-shadow: 4px 2px 2px rgba(0, 0, 0, 0.65);
+border-radius: 25px;
+
+/* Text */
+
+position: absolute;
+left: 16.67%;
+right: 8.67%;
+top: 27.74%;
+bottom: 29.06%;
+
+/* button/button-text */
+font-family: "Advent Pro";
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #ececec;
+
+/* Secondary-btn */
+
+position: absolute;
+width: 150px;
+height: 67.14px;
+left: 698px;
+top: 1353.48px;
+
+/* Shape */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* yellow */
+background: #f3d250;
+box-shadow: 4px 2px 2px rgba(0, 0, 0, 0.65);
+border-radius: 25px;
+
+/* Text */
+
+position: absolute;
+left: 16.67%;
+right: 8.67%;
+top: 27.74%;
+bottom: 29.06%;
+
+/* button/button-text */
+font-family: "Advent Pro";
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #ececec;
+
+/* Secondary-btn */
+
+position: absolute;
+width: 150px;
+height: 67.14px;
+left: 67px;
+top: 1340.06px;
+
+/* Shape */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* yellow */
+background: #f3d250;
+box-shadow: 4px 2px 2px rgba(0, 0, 0, 0.65);
+border-radius: 25px;
+
+/* Text */
+
+position: absolute;
+left: 16.67%;
+right: 8.67%;
+top: 27.74%;
+bottom: 29.06%;
+
+/* button/button-text */
+font-family: "Advent Pro";
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #ececec;
+
+/* Footer */
+
+position: absolute;
+width: 950px;
+height: 89px;
+left: 0px;
+top: 1503.51px;
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 950px;
+height: 89px;
+left: 0px;
+top: 1503.51px;
+
+background: #000000;
+
+/* AshLens Photography 2022 */
+
+position: absolute;
+width: 297px;
+height: 35px;
+left: 336px;
+top: 1521.51px;
+
+/* Heading/h4: Regular */
+font-family: "Advent Pro";
+font-style: normal;
+font-weight: 400;
+font-size: 29px;
+line-height: 35px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Instagram */
+
+position: absolute;
+width: 50px;
+height: 40px;
+left: 31px;
+top: 1529.51px;
+
+background: url(.png);
+
+/* Facebook F */
+
+position: absolute;
+width: 50px;
+height: 40px;
+left: 98px;
+top: 1528.51px;
+
+background: url(.png);
