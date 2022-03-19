@@ -11,3 +11,9 @@
   - X Footer
 
 Building this mock-up was not very hard and was actually a lot of fun. I will say though, it is a bit time consuming but it can really help to see what the website should look like.
+
+**Attributions**
+
+- Website inspiration for mockup: https://laluphoto.com.au/
+
+- Images from Upslpash Plugin
